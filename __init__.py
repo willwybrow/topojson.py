@@ -1,2 +1,2 @@
 from topojson import topojson
-from geojson import geojson
+from topo2geo import topo2geo
